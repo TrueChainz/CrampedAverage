@@ -1,5 +1,8 @@
-## Hey I'm Adnan, a Software Developer, and I currently specialise in Front-End  👋
+## Hi I'm Adnan, a Software Developer 👋
+### I currently specialise in Front-End Development 
 
+<br />
+<br />
 
 Here is some stuff about me as a Software Developer:
 
