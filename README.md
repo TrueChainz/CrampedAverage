@@ -2,7 +2,6 @@
 ### I currently specialise in Front-End Development 
 
 <br />
-<br />
 
 Here is some stuff about me as a Software Developer:
 
