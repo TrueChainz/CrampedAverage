@@ -10,7 +10,7 @@ Here is some stuff about me as a Software Developer:
 - 👯 I’m looking to collaborate on open source projects, and will do once I publish my first PHP project which won't be too long
 - 💬 Ask me about anything, I am happy to talk with you!
 - 📫 How to reach me: adnan.aant@gmail.com 
-- 😄 If you would like to see some of my work check out my Porfolio - [Portfolio][https://www.devadnan.com]
+- 😄 If you would like to see some of my work check out my Porfolio - https://www.devadnan.com
 - :memo: One of my hobbies, is finding something new to learn and challenging myself
 
 ### My Current Tech Stack
