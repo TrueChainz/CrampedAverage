@@ -7,7 +7,7 @@ Here is some stuff about me as a Software Developer:
 
 - 🔭 I’m currently working on viewLeague which is an up and coming site for league of legend players to look up champion and player stats.
 - 🌱 I’m currently learning TypeScript, NodeJS and its framework ExpressJS.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking for someone to develop new cool and fun projects with.
 - 💬 Ask me about anything, I am happy to talk with you!
 - 📫 How to reach me: adnan.aant@gmail.com 
 - 😄 If you would like to see some of my work check out my Porfolio - https://www.devadnan.com
