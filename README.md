@@ -11,7 +11,7 @@ Here is some stuff about me as a Software Developer:
 - 💬 Ask me about anything, I am happy to talk with you!
 - 📫 How to reach me: adnan.aant@gmail.com 
 - 😄 If you would like to see some of my work check out my Porfolio - https://www.devadnan.com
-- :memo: One of my hobbies, is finding something new things to learn and challenging myself
+- :memo: One of my hobbies, is finding new things to learn and challenging myself
 
 ### My Current Tech Stack
 
